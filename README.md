@@ -1,11 +1,14 @@
-## Semi Transparent theme for cinnamon __4.2/4.4/4.6__
+## Fresh Cinnamon __4.2/4.4/4.6__
 ---
-_Original theme: [Numix-Cinnamon-Transparent Theme](https://github.com/edoz90/numix-cinnamon-transparent)_
+Fresh Cinnamon is a refreshing Teal Semi Transparent Theme for Cinnamon
 
-_Original Original theme: [Numix-Cinnamon Theme](https://github.com/zagortenay333/numix-cinnamon)_
+Suggested Theme Configuration:
 
-this theme support GroupedWindowsList applet (default on new cinnamon)
+Border: Windows 10
+Icons: Tela Circle Manjaro Dark
+Controls: Qogir Manjaro Win Light
+Desktop: Fresh Cinnamon
+
 
 ### Preview
-<img src="https://raw.githubusercontent.com/bomdia/numix-cinnamon-semi-transparent/master/screenshot.png" />
-
+<img src="https://raw.githubusercontent.com/bomdia/fresh-cinnamon/master/screenshot.png" />
